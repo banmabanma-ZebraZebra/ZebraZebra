@@ -44,11 +44,13 @@ https://www.banmabanma.skin/
 `https://banmabanma.skin`
 
 已到期：
-`https://banmabanma.xyc（202602已到期）`
-`https://banmabanma.ppsu（202501已到期）`
+
+~~https://banmabanma.xyc（202602已到期）~~
+
+~~https://banmabanma.ppsu（202501已到期）~~
 
 ---
 
 如有建议或合作需求，可通过 [斑馬龙虾管家](https://www.banmabanma.skin/chat/chat-full.html) 进行联系。
 
-© 斑馬網絡工作室
+<p align="right">© 斑馬網絡工作室</p>

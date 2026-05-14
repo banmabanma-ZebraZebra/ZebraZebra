@@ -1,11 +1,11 @@
 # 版权声明
 
-© 斑馬網絡工作室（ZebraZebra）
-
 ---
 
 本项目内所有内容（包括但不限于代码、设计、文案、图像、音视频素材）均受版权法保护，未经授权不得复制、修改、分发或用于商业用途。
 
 ---
 
-如有建议或合作需求，可通过 [斑馬龙虾管家](chat/chat-full.html?from=contact) 进行联系。
+如有建议或合作需求，可通过 [斑馬龙虾管家](https://www.banmabanma.skin/chat/chat-full.html) 进行联系。
+
+<p align="right">© 斑馬網絡工作室</p>
