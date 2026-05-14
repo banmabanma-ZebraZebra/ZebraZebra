@@ -4,7 +4,7 @@
 
 最新域名：
 ```
-https://www.banmabanma.skin/
+https://banmabanma.skin/
 ```
 
 ---
@@ -13,41 +13,37 @@ https://www.banmabanma.skin/
 
 ### 斑馬斑馬 | 斑馬網絡工作室
 
-- https://www.banmabanma.skin/
+- https://banmabanma.skin/
 
 ### 武林书局 (原龍門書局)
 
-- https://www.banmabanma.skin/shuju/index.html
+- https://banmabanma.skin/shuju/index.html
 
 ### 斑馬工具箱
 
-- https://www.banmabanma.skin/tools/index.html
+- https://banmabanma.skin/tools/index.html
 
 ### AiBoom
 
-- https://www.banmabanma.skin/AiBoom/index.html
+- https://banmabanma.skin/AiBoom/index.html
 
 ### 斑馬龙虾 (窗口)
 
-- https://www.banmabanma.skin/chat/chat-full.html
+- https://banmabanma.skin/chat/chat-full.html
 
 ### 斑馬龙虾 (办公室)
 
-- https://www.banmabanma.skin/ZebraOffice/index.html
+- https://banmabanma.skin/ZebraOffice/index.html
 
 ---
 
 ### 📄 域名更新记录
 
-未到期：
+`https://banmabanma.skin`（未到期）
 
-`https://banmabanma.skin`
+`https://banmabanma.xyc（202602已到期）`
 
-已到期：
-
-~~https://banmabanma.xyc（202602已到期）~~
-
-~~https://banmabanma.ppsu（202501已到期）~~
+`https://banmabanma.ppsu（202501已到期）`
 
 ---
 
