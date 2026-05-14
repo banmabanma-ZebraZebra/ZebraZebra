@@ -39,7 +39,7 @@ https://banmabanma.skin/
 
 ### 📄 域名更新记录
 
-`https://banmabanma.skin`（未到期）
+https://banmabanma.skin（未到期）
 
 `https://banmabanma.xyc（202602已到期）`
 
