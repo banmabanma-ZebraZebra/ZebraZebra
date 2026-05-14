@@ -39,11 +39,13 @@ https://www.banmabanma.skin/
 
 ### 📄 域名更新记录
 
-`https://banmabanma.skin（未到期）`
+未到期：
 
+`https://banmabanma.skin`
+
+已到期：
 `https://banmabanma.xyc（202602已到期）`
-
-~~`banmabanma.ppsu（202501已到期）`~~
+`https://banmabanma.ppsu（202501已到期）`
 
 ---
 
