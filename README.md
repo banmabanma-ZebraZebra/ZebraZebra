@@ -39,12 +39,14 @@ https://www.banmabanma.skin/
 
 ### 📄 更新记录
 
-https://banmabanma.skin/（未到期）
+`https://banmabanma.skin/（未到期）`
 
-~~https://banmabanma.xyc/（202602已到期）~~
+~~`https://banmabanma.xyc（202602已到期）`~~
 
-~~https://banmabanma.ppsu/（202501已到期）~~
+~~`https://banmabanma.ppsu（202501已到期）`~~
 
 ---
 
 © 斑馬網絡工作室
+
+如有建议或合作需求，可通过 [斑馬龙虾管家](chat/chat-full.html?from=contact) 进行联系。
