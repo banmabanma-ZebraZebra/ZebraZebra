@@ -2,9 +2,12 @@
 
 > 蘑菇森林的尽头，新世界的起点，技术宅改变世界！
 
+
+最新域名：
 ```
-最新域名：https://www.banmabanma.skin/
+https://www.banmabanma.skin/
 ```
+
 
 ---
 
@@ -12,35 +15,35 @@
 
 ### 斑馬斑馬 | 斑馬網絡工作室
 
-https://www.banmabanma.skin/
+- https://www.banmabanma.skin/
 
 ### 武林书局 (原龍門書局)
 
-https://www.banmabanma.skin/shuju/index.html
+- https://www.banmabanma.skin/shuju/index.html
 
 ### 斑馬工具箱
 
-https://www.banmabanma.skin/tools/index.html
+- https://www.banmabanma.skin/tools/index.html
 
 ### AiBoom
 
-https://www.banmabanma.skin/AiBoom/index.html
+- https://www.banmabanma.skin/AiBoom/index.html
 
 ### 斑馬龙虾 (窗口)
 
-https://www.banmabanma.skin/chat/chat-full.html
+- https://www.banmabanma.skin/chat/chat-full.html
 
 ### 斑馬龙虾 (办公室)
 
-https://www.banmabanma.skin/ZebraOffice/index.html
+- https://www.banmabanma.skin/ZebraOffice/index.html
 
 ---
 
 ### 📄 更新记录
 
 https://banmabanma.skin/
-~~https://banmabanma.xyc/~~（202602已到期）
-~~https://banmabanma.xyc/~~（202502已到期）
+~~https://banmabanma.xyc/（202602已到期）~~
+~~https://banmabanma.xyc/（202501已到期）~~
 
 ---
 
