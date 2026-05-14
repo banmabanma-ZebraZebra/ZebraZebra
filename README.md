@@ -47,6 +47,8 @@ https://www.banmabanma.skin/
 
 ---
 
-© 斑馬網絡工作室
-
 如有建议或合作需求，可通过 [斑馬龙虾管家](chat/chat-full.html?from=contact) 进行联系。
+
+```
+© 斑馬網絡工作室
+```
