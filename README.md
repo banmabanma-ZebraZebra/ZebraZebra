@@ -2,14 +2,10 @@
 
 > 蘑菇森林的尽头，新世界的起点，技术宅改变世界！
 
-
-
-
 最新域名：
 ```
 https://www.banmabanma.skin/
 ```
-
 
 ---
 
@@ -43,11 +39,11 @@ https://www.banmabanma.skin/
 
 ### 📄 更新记录
 
-https://banmabanma.skin/
+https://banmabanma.skin/（未到期）
 
-~~https://banmabanma.xyc/（202602已到期）~~（202602已到期）
+~~https://banmabanma.xyc/（202602已到期）~~
 
-~~https://banmabanma.xyc/（202501已到期）~~
+~~https://banmabanma.ppsu/（202501已到期）~~
 
 ---
 
